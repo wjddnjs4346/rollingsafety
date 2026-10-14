@@ -1,0 +1,6 @@
+streamlit==1.53.1
+fastapi>=0.115,<1
+httpx>=0.28,<0.29
+pymupdf>=1.24,<2
+psycopg[binary]>=3.2,<4
+pillow>=10,<13

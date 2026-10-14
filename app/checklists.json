@@ -1,0 +1,93 @@
+{
+  "hydrant": [
+    {
+      "code": "1",
+      "label": "호스(2ea), 관창, 레버(옥외) 비치여부",
+      "applicability": "all"
+    },
+    {
+      "code": "2",
+      "label": "호스 보관 상태 (고착, 지그재그)",
+      "applicability": "all"
+    },
+    {
+      "code": "3",
+      "label": "호스 ~ 앵글밸브 체결 여부 (옥내 소화전)",
+      "applicability": "indoor"
+    },
+    {
+      "code": "4",
+      "label": "옥외소화전 개방 실시 (고착 여부)",
+      "applicability": "outdoor"
+    },
+    {
+      "code": "5",
+      "label": "소화전 함",
+      "applicability": "all"
+    }
+  ],
+  "extinguisher": [
+    {
+      "code": "1",
+      "label": "용기 변형/훼손",
+      "applicability": "all"
+    },
+    {
+      "code": "2",
+      "label": "손잡이 변형/훼손",
+      "applicability": "all"
+    },
+    {
+      "code": "3",
+      "label": "호스, 노즐 변형/훼손",
+      "applicability": "all"
+    },
+    {
+      "code": "4",
+      "label": "지시압력 확인",
+      "applicability": "all"
+    },
+    {
+      "code": "5",
+      "label": "안전핀 탈락/변형",
+      "applicability": "all"
+    }
+  ],
+  "manifold": [
+    {
+      "code": "1",
+      "label": "MSDS, 점검표 비치",
+      "applicability": "all"
+    },
+    {
+      "code": "2",
+      "label": "가스 누설 유무",
+      "applicability": "all"
+    },
+    {
+      "code": "3",
+      "label": "버블 체크 비치 여부",
+      "applicability": "all"
+    },
+    {
+      "code": "4",
+      "label": "사용 전 점검표 및 정기점검표 작성 유무",
+      "applicability": "all"
+    },
+    {
+      "code": "5",
+      "label": "밸브 잠금 상태",
+      "applicability": "all"
+    },
+    {
+      "code": "6",
+      "label": "게이지 상태 (상하한 표시)",
+      "applicability": "all"
+    },
+    {
+      "code": "7",
+      "label": "정리정돈 상태",
+      "applicability": "all"
+    }
+  ]
+}
